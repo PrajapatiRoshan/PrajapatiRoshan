@@ -1,12 +1,17 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Roshan Prajapati.</h1>
-<h3 align="center">software engineer</h3>
+<h3 align="center">👨‍💻 software engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrajapatiRoshan&label=Profile%20views&color=0e75b6&style=flat" alt="PrajapatiRoshan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrajapatiRoshan&theme=dark_lover" alt="PrajapatiRoshan" /></a> </p>
 
-- 🌱 I’m currently learning **React.**
-
+- 🌱 I’m currently learning **....**
+- Passionate about coding and creating impactful software
+- Enjoy late-night coding sessions and solving complex problems
+- Focused on building innovative projects that positively impact society
+- Calm under pressure, with a problem-solving mindset
+- Lifelong learner, always eager to explore new technologies
+- Collaborative and always ready to lend a helping hand
 - 📫 How to reach me **codephatgya@gmail.com**
 - 👨‍💻 All of my projects are available at **..**
 - ⚡ Fun fact **😉**
